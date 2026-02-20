@@ -3,6 +3,10 @@ public class Main {
         ExpenseManager myManager = new ExpenseManager();
         myManager.addExpense(50.0);
         System.out.println("Gasto de 50 añadido. Total: " + myManager.getTotalBalance());
+        // Pruebo con 200
+        myManager.addExpense(200.0);
+        System.out.println("Gasto de 200 añadido. Total: " + myManager.getTotalBalance());
+        // Pruebo con un número negativo
         myManager.addExpense(-10.0);
         System.out.println("Intento añadir -10. Total sigue siendo: " + myManager.getTotalBalance());
     }
