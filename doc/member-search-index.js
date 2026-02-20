@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"ExpenseManager","l":"addExpense(double)"},{"p":"<Unnamed>","c":"ExpenseManager","l":"ExpenseManager()","u":"%3Cinit%3E()","k":"3"},{"p":"<Unnamed>","c":"ExpenseManager","l":"getTotalBalance()"},{"p":"<Unnamed>","c":"ExpenseManager","l":"totalAmount","k":"1"}];updateSearchResults();
